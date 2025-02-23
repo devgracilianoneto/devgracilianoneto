@@ -19,6 +19,7 @@
 <a href="https://www.linkedin.com/in/gracilianoneto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Statistics GitHub:
 <div>
 <a href="https://github.com/devgracilianoneto">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgracilianoneto&layout=compact&langs_count=7&theme=dracula" width="500" height="500" /> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=devgracilianoneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  width="500" height="500"  />
